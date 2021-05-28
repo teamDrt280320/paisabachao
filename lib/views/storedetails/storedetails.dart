@@ -223,6 +223,7 @@ class _StoreDetailsState extends State<StoreDetails> {
                                                   fontWeight: FontWeight.bold,
                                                 ),
                                                 maxLines: 2,
+                                                softWrap: true,
                                                 overflow: TextOverflow.ellipsis,
                                               ),
                                               SizedBox(
